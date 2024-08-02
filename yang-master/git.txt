@@ -1,0 +1,5 @@
+git 상태확인 git status
+git add .
+git commit -m '문자'
+git push
+git pull
