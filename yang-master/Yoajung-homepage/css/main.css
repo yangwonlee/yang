@@ -1,3 +1,4 @@
+/* 헤드, 헤더부분 */
 body {
     font-family: Arial, sans-serif;
   }
@@ -54,3 +55,208 @@ body {
   .header_menu a:hover {
     color: #f00;
   }
+
+
+/* 여기까지 헤드, 헤더 */
+
+
+
+
+
+/* 여기부턴 메인 바디, 섹션 */
+
+section{
+
+}
+
+section .main-page{
+
+}
+
+section .main-page .main-wrap{
+
+}
+
+section .main-page .main-wrap .main-first{
+
+}
+
+section .main-page .main-wrap .main-second{
+
+}
+
+section .main-page .main-wrap .main-third{
+
+}
+
+section .main-page .main-wrap .main-fourth{
+
+}
+
+section .main-page .main-wrap .main-fifth{
+
+}
+
+section .main-page .main-wrap .main-last{
+
+}
+
+section .main-page .main-wrap .main-last .center{
+
+}
+
+section .main-page .main-wrap .main-last .center .sns{
+
+}
+
+section .main-page .main-wrap .main-last .center .sns .logo{
+
+}
+
+section .main-page .main-wrap .main-last .center .sns .h{
+
+}
+
+section .main-page .main-wrap .main-last .center .insta_official{
+
+}
+
+section .main-page .main-wrap .main-last .center .insta-picture{
+
+}
+
+section .main-page .main-wrap .main-last .center .insta-picture-1{
+
+}
+
+section .main-page .main-wrap .main-last .center .insta-picture-2{
+
+}
+
+section .main-page .main-wrap .main-last .center .insta-picture-3{
+
+}
+
+section .main-page .main-wrap .main-last .center .insta-picture-4{
+
+}
+
+section .main-page .main-wrap .main-last .center .insta-picture-5{
+
+}
+
+section .main-page .main-wrap .main-last .center .insta-picture-6{
+
+}
+
+section .main-page .main-wrap .main-last .center .insta-picture-7{
+
+}
+
+section .main-page .main-wrap .main-last .center .insta-picture-8{
+
+}
+
+section .main-page .main-wrap .main-last .center .insta-picture-9{
+
+}
+
+section .main-page .main-wrap .main-last .center .insta-picture-10{
+
+}
+
+
+
+
+
+
+
+
+
+
+/* 여기까지 메인 바디, 섹션 */
+
+
+
+
+/* 푸터 부분. */
+  .footer{
+    background-color: rgb(247, 79, 105); 
+    padding-left: 100px;
+}
+
+.footer .footer-wrapper{
+    width: 1100px;
+    height: 400px;
+}
+
+.footer .footer-upper{
+    width: 1100px;
+    /* height: 100px; */
+    padding-bottom: 15px;
+}
+
+.footer .footer-lower{
+    color: white;
+    font-family: pretendard-Regular;
+    border-top: 1px solid #ffffffa1;
+    /* border-top: 탑 바텀을 나누는 흰실선.*/
+    padding-top: 5%; 
+    /* display: flex; */
+    width: 100%;
+}
+
+
+.footer .footer-lower .info{
+    /* color: black; */
+    /* font-weight: 600; */
+}
+
+.footer .footer-lower .info > span{
+    font-weight: 700;
+    /* font-size: large; */
+    /* color: green; */
+}
+
+.footer .footer-lower .address{
+    /* color: brown; */
+    /* font-weight:700; */
+    /* font-size: 16px; */
+}
+
+.footer .footer-lower .address > span{
+    /* color: blue; */
+    font-weight: 700;
+    /* font-size: 16; */
+    /* margin-left: 10px; */
+}
+
+.footer .footer-lower .inquire{
+    /* color: yellow; */
+    /* font-weight: 700; */
+    /* height: 10; */
+    /* margin-top: 10px; */
+}
+
+.footer .footer-lower .inquire > span{
+    /* color: purple; */
+    font-weight: 700;
+    /* font-size: 16px; */
+}
+
+.footer .footer-lower .copyright{
+    /* padding-top: 10px; */
+    font-size: 0.9em;
+    height: 16;
+    width: 100%;
+    font-weight: 600;
+    margin-top: 20px;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+
+/* @media {
+    
+} */
